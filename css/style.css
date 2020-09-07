@@ -11,7 +11,7 @@ html, body {
    color: #505962;
 }
 .text-nuno {
-   color: #1EBBA3;
+   color: #B49296;
 }
 
 /*--- Nav Scrolling Offset --*/
@@ -48,7 +48,7 @@ html, body {
 }
 .navbar-nav .nav-link.active,
 .navbar-nav .nav-link:hover {
-   color: #1EBBA3;
+   color: #B49296;
 }
 .custom-toggler-icon {
    color: white;
@@ -91,7 +91,7 @@ button, a, a.btn,
    left: 0;
 }
 .home-inner {
-   background-image: url('https://via.placeholder.com/2000x1333');
+   background-image: linear-gradient(rgba(21,0,12,1), rgba(231, 182, 187, 0.5)),url('../img/bureau_vue_dessus_courleur_noir_rose_blush.jpg');
    position: fixed;
    height: 100%;
    width: 100%;
