@@ -91,7 +91,7 @@ button, a, a.btn,
    left: 0;
 }
 .home-inner {
-   background-image: linear-gradient(rgba(21,0,12,1), rgba(231, 182, 187, 0.5)),url('../img/bureau_vue_dessus_courleur_noir_rose_blush.jpg');
+   background-image: linear-gradient(rgba(21,0,12,1), rgba(231, 182, 187, 0.5)),url('../img/Bureau_Macbook_pro_Bloc_notes_réveil_Rose_gold.jpg');
    position: fixed;
    height: 100%;
    width: 100%;
@@ -203,7 +203,7 @@ h3.heading {
    z-index: -9999;
 }
 .fixed-dark {
-   background-image: url('https://via.placeholder.com/1500x1000');
+   background-image: linear-gradient(rgba(231, 182, 187, 0.5), rgba(21,0,12,0.5)),url('../img/bureau_vue_dessus_courleur_noir_rose_blush.jpg');
    position: fixed;
    height: 100%;
    width: 100%;
@@ -354,7 +354,7 @@ blockquote .svg-inline--fa {
 /*============= CONTACT SECTION =============*/
 
 .footer {
-   background: url('https://via.placeholder.com/2000x722') no-repeat;
+   background-image: linear-gradient(rgba(231, 182, 187, 1), rgba(21,0,12,0)),url('../img/Bureau_clavier_souris_stylo_Bloc_notes_réveil_Rose_gold.jpg');
    background-size: cover;
    color: white;
    /* background-color: #505962; */
