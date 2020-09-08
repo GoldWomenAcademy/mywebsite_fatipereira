@@ -271,7 +271,7 @@ h3.heading {
 
 /*--- Team Light Background Image --*/
 .fixed-light {
-   background-image: url('https://via.placeholder.com/1500x1002');
+   background-image: linear-gradient(rgba(21,0,12,1), rgba(231, 182, 187, 0.5)),url('../img/bureau_agenda_mackbook_pro_couleur_rose_gold.jpg');
    position: fixed;
    height: 100%;
    width: 100%;
@@ -467,7 +467,7 @@ a.top-scroll:hover {
       background-image: linear-gradient(rgba(21,0,12,1), rgba(231, 182, 187, 0.5)),url('../img/bureau_vue_dessus_courleur_noir_rose_blush_982x1000.jpg');
    }
    .fixed-light {
-      background-image: url('https://via.placeholder.com/1163x1002')
+      background-image: linear-gradient(rgba(21,0,12,1), rgba(231, 182, 187, 0.5)),url('../img/bureau_agenda_mackbook_pro_couleur_rose_gold_1163x1002.jpg');
    }
    .footer {
       background-image: linear-gradient(rgba(21,0,12,1), rgba(231, 182, 187, 0.5)),url('../img/Bureau_clavier_souris_stylo_Bloc_notes_réveil_Rose_gold_2000x1440.jpg') no-repeat;
