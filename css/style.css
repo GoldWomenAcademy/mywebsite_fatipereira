@@ -464,13 +464,13 @@ a.top-scroll:hover {
       font-size: 2rem;
    }
    .fixed-dark {
-      background-image: url('https://via.placeholder.com/982x1000')
+      background-image: linear-gradient(rgba(21,0,12,1), rgba(231, 182, 187, 0.5)),url('../img/bureau_vue_dessus_courleur_noir_rose_blush_982x1000.jpg');
    }
    .fixed-light {
       background-image: url('https://via.placeholder.com/1163x1002')
    }
    .footer {
-      background: url('https://via.placeholder.com/2000x1440') no-repeat;
+      background-image: linear-gradient(rgba(21,0,12,1), rgba(231, 182, 187, 0.5)),url('../img/Bureau_clavier_souris_stylo_Bloc_notes_réveil_Rose_gold_2000x1440.jpg') no-repeat;
    }
    .top-scroll {
       display: none!important;
